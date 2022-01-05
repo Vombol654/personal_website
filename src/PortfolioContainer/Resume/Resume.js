@@ -70,7 +70,15 @@ const Resume = (props) => {
       duration: { fromDate: "2021", toDate: "2021" },
       description:
         "A Personal Portfolio website to showcase all my details .",
-      subHeading: "Technologies Used: React JS, Bootsrap",
+      subHeading: "Technologies Used: React JS, Bootsrap,emailjs",
+    },
+     {
+      title: "Food Delivery Website",
+      duration: { fromDate: "06/2021", toDate: "01/2022" },
+      description:
+        "A Food Delivery Website Having login,signup,filter,payment etc features .",
+      subHeading: "Technologies Used:Bootsrap,MERN stack ",
+       link:website-654.herokuapp.com
     },
   
   ];
