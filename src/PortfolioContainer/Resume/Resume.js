@@ -77,8 +77,7 @@ const Resume = (props) => {
       duration: { fromDate: "06/2021", toDate: "01/2022" },
       description:
         "A Food Delivery Website Having login,signup,filter,payment etc features .",
-      subHeading: "Technologies Used:Bootsrap,MERN stack ",
-       link:"website-654.herokuapp.com"
+      subHeading: "website-654.herokuapp.com",
     },
   
   ];
