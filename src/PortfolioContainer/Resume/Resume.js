@@ -167,7 +167,7 @@ const Resume = (props) => {
     <div className="resume-screen-container" key="interests">
       <ResumeHeading
         heading="Investing"
-        description="Apart from student , I also love to invest in appreciating assets with Risk."
+        description="Apart from studying , I also love to invest in appreciating assets with Risk."
       />
       <ResumeHeading
         heading="Music"
